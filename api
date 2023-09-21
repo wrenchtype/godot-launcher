@@ -1,7 +1,12 @@
 {
+"windows":{
 "latest_version":10,
 "latest_version_name":"0.2.0",
 "note":"",
 "download_url":"",
 "external_url":false,
+},
+"_":{
+
+}
 }
