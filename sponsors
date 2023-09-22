@@ -1,0 +1,14 @@
+{
+"donations":[
+{"name":"test",
+"amount":"10$",
+"link":"https://twitter.com/WrenchType",},
+{"name":"test 2",
+"amount":"15$",
+"link":"https://twitter.com/WrenchType",
+}
+],
+"members":[
+{}
+]
+}
