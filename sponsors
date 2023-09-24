@@ -14,10 +14,12 @@
 "members":[
 {"name":"member1",
 "tier":0,
+"avatar_url":""
 "link":"https://twitter.com/WrenchType",
 },
 {"name":"member2",
 "tier":1,
+"avatar_url":""
 "link":"https://twitter.com/WrenchType",
 },
 ]
