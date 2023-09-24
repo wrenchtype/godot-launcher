@@ -3,23 +3,23 @@
 {"name":"test",
 "amount":10,
 "currency":"$",
-"avatar_url":""
+"avatar_url":"",
 },
 {"name":"test 2",
 "amount":15,
 "currency":"$",
-"avatar_url":""
+"avatar_url":"",
 },
 ],
 "members":[
 {"name":"member1",
 "tier":0,
-"avatar_url":""
+"avatar_url":"",
 "link":"https://twitter.com/WrenchType",
 },
 {"name":"member2",
 "tier":1,
-"avatar_url":""
+"avatar_url":"",
 "link":"https://twitter.com/WrenchType",
 },
 ]
