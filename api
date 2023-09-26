@@ -1,9 +1,9 @@
 {
 "windows":{
-"latest_version":21,
-"latest_version_name":"0.2.1",
+"latest_version":22,
+"latest_version_name":"0.2.2",
 "note":"",
-"download_url":"https://github.com/wrenchtype/godot-launcher/releases/download/release/Godot.Launcher.0.2.1.pck",
+"download_url":"https://github.com/wrenchtype/godot-launcher/releases/download/pck/Godot.Launcher.0.2.2.pck",
 "external_url":false,
 },
 "_":{
