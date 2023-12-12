@@ -1,10 +1,10 @@
 {
 "windows":{
-"latest_version":33,
-"latest_version_name":"0.3.3",
+"latest_version":100,
+"latest_version_name":"1.0",
 "note":"",
-"download_url":"https://github.com/wrenchtype/godot-launcher/releases/download/v0.3.3/Godot.Launcher.0.3.3.pck",
-"external_url":false,
+"download_url":"https://wrenchtype.itch.io/godot-launcher",
+"external_url":true,
 },
 "_":{
 
